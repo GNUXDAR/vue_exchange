@@ -2,7 +2,8 @@
     <div class="flex-col items-center">
         <h1 class="text-gray-700 text-6xl">Vue Exchange v1.0.0</h1>
         <p class="text-gray-600 text-xl text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit accusantium officia pariatur deleniti quasi voluptatum porro ut dolorum, tempore sapiente provident iusto distinctio maxime. Architecto nulla aspernatur similique fugiat illo!
+            Proyecto para obtener las cotizaciones de las cryptomonedas mas importantes a traves de la API REST de Coincap.
+            Este proyecto es creado por @gnuxdar utilizado en el curo de Vue.js Basico de Platzi
         </p>
 
         <router-link 
