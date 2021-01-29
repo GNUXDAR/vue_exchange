@@ -29,3 +29,6 @@ npm i -S tailwindcss
 npm i -S numeral
 npm i -S @saeris/vue-spinners vue-chartkick
 npm i -S chart.js
+
+### Deploy web app
+[Vue Exchange](https://vue-exchange-art.netlify.app/)
