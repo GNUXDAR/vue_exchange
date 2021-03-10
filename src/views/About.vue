@@ -3,7 +3,7 @@
         <h1 class="text-gray-700 text-6xl">Vue Exchange v1.0.0</h1>
         <p class="text-gray-600 text-xl text-center">
             Proyecto para obtener las cotizaciones de las cryptomonedas mas importantes a traves de la API REST de Coincap.
-            Este proyecto es creado por @gnuxdar utilizado en el curo de Vue.js Basico de Platzi
+            Este proyecto es creado por <b>Arturo Cabrera - @gnuxdar </b> con un curso de vue basico.
         </p>
 
         <router-link 
